@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aura-fitness.vercel.app/sitemap.xml

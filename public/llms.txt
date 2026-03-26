@@ -1,0 +1,23 @@
+# Aura Fitness Studio
+
+> Dubai's premier ladies-only boutique fitness studio in Umm Suqeim.
+
+## About
+Aura Fitness Studio is a boutique ladies-only fitness studio located in Umm Suqeim, Dubai. Established in 2019, we offer Pilates Reformer, Yoga Flow, HIIT Sculpt, and Personal Training classes.
+
+## Classes
+- Pilates Reformer — 55 min — AED 120
+- Yoga Flow — 60 min — AED 95
+- HIIT Sculpt — 45 min — AED 80
+- Personal Training — 60 min — AED 350
+
+## Hours
+- Monday–Saturday: 6:00 AM – 9:00 PM
+- Friday: 7:00 AM – 8:00 PM
+- Sunday: Closed
+
+## Contact
+- Location: Umm Suqeim, Dubai, UAE
+- Email: hello@aurafitness.ae
+- WhatsApp: +971XXXXXXXXX
+- Website: https://aura-fitness.vercel.app
