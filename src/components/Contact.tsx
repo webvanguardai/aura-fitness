@@ -110,7 +110,7 @@ export default function Contact() {
 
             <div className="mt-6 text-center">
               <a
-                href="https://wa.me/971XXXXXXXXX?text=Hi!%20I'd%20like%20to%20book%20a%20class%20at%20Aura%20Fitness%20Studio."
+                href="https://wa.me/971585324519?text=Hi!%20I'd%20like%20to%20book%20a%20class%20at%20Aura%20Fitness%20Studio."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-plum/70 hover:text-plum transition-colors"
